@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "173891151864",
+    "project_id": "simple-notes-flutter",
+    "storage_bucket": "simple-notes-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173891151864:android:625dcf911e9a493b89180d",
+        "android_client_info": {
+          "package_name": "com.example.simple_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173891151864-cv2vv770rpdg0mp2r5ri3ir0a2v0v2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzSI173fxnaIum6Hr-lx_Ka1x5a399ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173891151864-cv2vv770rpdg0mp2r5ri3ir0a2v0v2o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173891151864-g7jmc8mvtocpjkeiscai7fvm2a9f2tjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpleNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
